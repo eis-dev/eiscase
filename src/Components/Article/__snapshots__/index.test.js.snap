@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article renders correctly 1`] = `
+<div>
+  <div
+    className="card mb-3"
+  >
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        Test Title
+      </h5>
+      <p
+        className="card-text"
+      >
+        Test Content... 
+      </p>
+      <p
+        className="mb-0"
+      >
+        <a
+          href="/article/undefined"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          Read more
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    className="card mb-3"
+  >
+    <div
+      className="card-body"
+    >
+      <h5
+        className="card-title"
+      >
+        Test Title
+      </h5>
+      <p
+        className="card-text"
+      >
+        Test Content... 
+      </p>
+      <p
+        className="mb-0"
+      >
+        <a
+          href="/article/undefined"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          Read more
+        </a>
+      </p>
+    </div>
+  </div>
+</div>
+`;
